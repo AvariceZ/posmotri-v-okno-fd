@@ -196,10 +196,10 @@ ol {
 }
 
 .search-form__textfield {
-  border: 1px solid #fff;
+  border: 1px solid white;
   border-left: none;
   border-right: none;
-  color: #fff;
+  color: white;
   background-color: transparent;
   height: 27px;
   width: 225px;
@@ -222,7 +222,7 @@ ol {
 }
 
 .search-form__label:has(:focus-visible) {
-  outline: 1px solid #fff;
+  outline: 1px solid white;
   outline-offset: 1px;
 }
 
