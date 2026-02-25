@@ -66,11 +66,6 @@ ol {
   align-items: start;
 }
 
-.content__list-container {
-  height: 298px;
-  overflow: auto;
-}
-
 .content__details {
   height: 100%;
   width: 100%;
@@ -80,6 +75,7 @@ ol {
   height: 386px;
   width: 711px;
   margin-bottom: 16px;
+  position: relative;
 }
 
 .result__video {
@@ -305,3 +301,4 @@ ol {
   padding-left: 3px;
   cursor: pointer;
 }
+
