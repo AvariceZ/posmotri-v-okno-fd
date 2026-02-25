@@ -101,6 +101,7 @@ ol {
   gap: 30px;
   height: 298px;
   overflow: auto;
+  position: relative;
 }
 
 .content__video-card {
@@ -297,10 +298,6 @@ ol {
 .content__card-link:focus-visible {
   outline: 1px solid white;
   outline-offset: 1px;
-}
-
-.result__video-container {
-  position: relative;
 }
 
 .content__list-item {
