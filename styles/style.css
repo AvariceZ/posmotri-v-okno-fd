@@ -99,6 +99,9 @@ ol {
   display: flex;
   flex-direction: column;
   gap: 30px;
+  height: 298px;
+  overflow: auto;
+  position: relative
 }
 
 .content__video-card {
@@ -297,8 +300,7 @@ ol {
   outline-offset: 1px;
 }
 
-.result__video-container,
-.content__list-container {
+.result__video-container {
   position: relative;
 }
 
