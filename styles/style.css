@@ -148,8 +148,7 @@ ol {
   max-width: 190px;
   text-transform: uppercase;
   white-space: nowrap;
-  text-overflow: ellipsis;   
-  white-space: nowrap;   
+  text-overflow: ellipsis;    
   overflow: hidden;
 } 
 
